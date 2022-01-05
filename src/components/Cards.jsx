@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Card } from 'react-bootstrap'
-import { Divstyle } from '../style/Stylecontainerdiv';
+import { Divstyle } from '../style/Stylecarddiv';
 
 export default class Cards extends Component {
     render() {
